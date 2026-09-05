@@ -14,7 +14,7 @@ Originally built as a school Computer Science project, then rebuilt with a worki
   - an assumed visit length per location
   - travel time between stops, calculated from real coordinates
   - a fixed touring window per day (e.g. 9 AM–5 PM)
-  - locations that don't fit within the requested number of days are listed separately rather than silently overflowing
+  - locations that don't fit within the requested number of days are listed separately, rather than silently overflowing
 - **Show/hide password toggles** on login and registration
 - Dark, modern UI built with plain `tkinter` (no extra GUI dependencies)
 
@@ -43,7 +43,7 @@ Originally built as a school Computer Science project, then rebuilt with a worki
    python RouteRoverApp.py
    ```
 
-`test_connection.py` is included as a minimal script to sanity-check your database connection on its own, separate from the full app.
+`test_connection.py` is included as a minimal script to double-check your database connection on its own, separate from the full app.
 
 ## Project Structure
 
@@ -56,7 +56,20 @@ test_connection.py     # standalone DB connection test
 
 ## Screenshots
 
-*(Add a few screenshots here of the login screen, register screen, and a sample itinerary.)*
+<img width="1917" height="1052" alt="image" src="https://github.com/user-attachments/assets/2fde1d55-1dbc-4a2e-94b9-59cf62389dad" />
+
+
+<img width="1917" height="1057" alt="image" src="https://github.com/user-attachments/assets/2ed1c11f-1a96-4fc0-b8df-d097ec1e268d" />
+
+
+<img width="1915" height="1043" alt="image" src="https://github.com/user-attachments/assets/1464cf5d-d4af-4ec7-b1a1-8162c267bbcb" />
+
+
+<img width="1917" height="1052" alt="image" src="https://github.com/user-attachments/assets/b2ba6379-463c-46b4-b4be-8d0a01322f74" />
+
+
+<img width="1916" height="1057" alt="image" src="https://github.com/user-attachments/assets/5a1ee90c-b0d0-4901-a8e7-341d054e7799" />
+
 
 ## Notes
 
